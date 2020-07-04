@@ -4,11 +4,11 @@
 # Overview and Module details of CMWNet
    Overview:
 
-   ![Image text](https://github.com/MathLee/CMWNet/tree/master/Images/Network_Overview.png)
+   ![Image](https://github.com/MathLee/CMWNet/tree/master/Images/Network_Overview.png)
 
    Module details:
 
-   ![Image text](https://github.com/MathLee/CMWNet/tree/master/Images/Module_details.png)
+   ![Image](https://github.com/MathLee/CMWNet/tree/master/Images/Module_details.png)
   
 # Saliency maps and Measure results on 8 Datasets
    We provide [saliency maps](https://pan.baidu.com/s/1ShP41pA04YEx_bLuBOlDHg) (提取码: 6f2j) and [measure results](https://pan.baidu.com/s/1gmswn6s7jbpj7byndanYhg) (提取码: p0y7) of our CMWNet on 8 datasets (STEREO, NJU2K, LFSD, DES, NLPR, SSD, SIP and additional DUT-RGBD).
