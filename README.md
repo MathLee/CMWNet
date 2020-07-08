@@ -23,8 +23,8 @@
                 journal = {European Conference on Computer Vision},
                 year = {2020},}
 
-# More of our work on RGB-D SOD
-   More of our work about RGB-D SOD, please refer to [**TIP_2020_ICNet**](https://github.com/MathLee/ICNet-for-RGBD-SOD).
+# Related works on RGB-D SOD
+   (**TIP_2020_ICNet**) [ICNet: Information Conversion Network for RGB-D Based Salient Object Detection](https://github.com/MathLee/ICNet-for-RGBD-SOD).
 
 If you encounter any problems with the code, want to report bugs, etc.
 
