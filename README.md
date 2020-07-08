@@ -15,6 +15,9 @@
    
 # Testing
    The codes and models will come in soon.
+
+# Related works on RGB-D SOD
+   (**TIP_2020_ICNet**) [ICNet: Information Conversion Network for RGB-D Based Salient Object Detection](https://github.com/MathLee/ICNet-for-RGBD-SOD).
    
 # Citation
         @inproceedings{Li_2020_CMWNet,
@@ -22,9 +25,6 @@
                 title = {Cross-Modal Weighting Network for RGB-D Salient Object Detection},
                 journal = {European Conference on Computer Vision},
                 year = {2020},}
-
-# Related works on RGB-D SOD
-   (**TIP_2020_ICNet**) [ICNet: Information Conversion Network for RGB-D Based Salient Object Detection](https://github.com/MathLee/ICNet-for-RGBD-SOD).
 
 If you encounter any problems with the code, want to report bugs, etc.
 
