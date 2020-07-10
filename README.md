@@ -1,5 +1,5 @@
 # CMWNet
-   This project provides the codes and results for 'Cross-Modal Weighting Network for RGB-D Salient Object Detection', ECCV 2020.
+   This project provides the codes and results for 'Cross-Modal Weighting Network for RGB-D Salient Object Detection', ECCV 2020. [Paper link](https://arxiv.org/pdf/2007.04901.pdf).
 
 # Overview and Module details
    Overview:
