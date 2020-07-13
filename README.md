@@ -1,5 +1,7 @@
 # CMWNet
    This project provides the codes and results for 'Cross-Modal Weighting Network for RGB-D Salient Object Detection', ECCV 2020. [Paper link](https://arxiv.org/pdf/2007.04901.pdf).
+   
+   Our code is implemented based on the Caffe of FlowNet2. You should first install and compile the caffe according to the [FlowNet2](https://github.com/lmb-freiburg/flownet2). 
 
 # Overview and Module details
    Overview:
