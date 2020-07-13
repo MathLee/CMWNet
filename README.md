@@ -13,9 +13,13 @@
 # Saliency maps and Measure results on 8 Datasets
    We provide [saliency maps](https://pan.baidu.com/s/1ShP41pA04YEx_bLuBOlDHg) (code: 6f2j) and [measure results](https://pan.baidu.com/s/1gmswn6s7jbpj7byndanYhg) (code: p0y7) of our CMWNet on 8 datasets (STEREO, NJU2K, LFSD, DES, NLPR, SSD, SIP and additional DUT-RGBD).
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
-   
+
 # Testing
-   The codes and models will come in soon.
+1. `test_RGBD.prototxt/` is under `models/`.
+2. Download the [trained model](https://pan.baidu.com/s/12LAIiOL1ohq7i9S0nsxZrg) (code: z2o4) (`RGBD_iter_22500.caffemodel`), and put it under `models/`.
+3. The datasets are under `datasets/`, we provide some testing examples on DES dataset.
+4. Run `matlab/test_CMWNet.m`.
+5. Saliency maps are under `salmaps/DES/`.
 
 # Related works on RGB-D SOD
    (**TIP_2020_ICNet**) [ICNet: Information Conversion Network for RGB-D Based Salient Object Detection](https://github.com/MathLee/ICNet-for-RGBD-SOD).
@@ -24,7 +28,7 @@
         @inproceedings{Li_2020_CMWNet,
                 author = {Li, Gongyang and Liu, Zhi and Ye, Linwei and Wang, Yang and Ling, Haibin},
                 title = {Cross-Modal Weighting Network for RGB-D Salient Object Detection},
-                journal = {European Conference on Computer Vision},
+                journal = {European Conference on Computer Vision (ECCV)},
                 year = {2020},}
 
 If you encounter any problems with the code, want to report bugs, etc.
