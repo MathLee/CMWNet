@@ -20,7 +20,7 @@
 1. `test_RGBD.prototxt/` is under `models/`.
 2. Download the [trained model](https://pan.baidu.com/s/12LAIiOL1ohq7i9S0nsxZrg) (code: z2o4) (`RGBD_iter_22500.caffemodel`), and put it under `models/`.
 3. The datasets are under `datasets/`, we provide some testing examples on DES dataset.
-4. Run `matlab/test_CMWNet.m`.
+4. Run `test_matlab/test_CMWNet.m`.
 5. Saliency maps are under `salmaps/DES/`.
 
 # Related works on RGB-D SOD
