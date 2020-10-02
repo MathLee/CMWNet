@@ -26,6 +26,8 @@
 # Related works on RGB-D SOD
    (**TIP_2020_ICNet**) [ICNet: Information Conversion Network for RGB-D Based Salient Object Detection](https://github.com/MathLee/ICNet-for-RGBD-SOD).
    
+   (**Survey**) [RGB-D Salient Object Detection: A Survey](https://github.com/taozh2017/RGBD-SODsurvey).
+   
 # Citation
         @inproceedings{Li_2020_CMWNet,
                 author = {Li, Gongyang and Liu, Zhi and Ye, Linwei and Wang, Yang and Ling, Haibin},
