@@ -33,6 +33,8 @@
                 author = {Li, Gongyang and Liu, Zhi and Ye, Linwei and Wang, Yang and Ling, Haibin},
                 title = {Cross-Modal Weighting Network for RGB-D Salient Object Detection},
                 journal = {European Conference on Computer Vision (ECCV)},
+                pages = {665-681},
+                month = {Aug.},
                 year = {2020},}
 
 If you encounter any problems with the code, want to report bugs, etc.
