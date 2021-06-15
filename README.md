@@ -15,6 +15,7 @@
 # Saliency maps and Measure results on 8 Datasets
    We provide [saliency maps](https://pan.baidu.com/s/1ShP41pA04YEx_bLuBOlDHg) (code: 6f2j) and [measure results](https://pan.baidu.com/s/1gmswn6s7jbpj7byndanYhg) (code: p0y7) of our CMWNet on 8 datasets (STEREO, NJU2K, LFSD, DES, NLPR, SSD, SIP and additional DUT-RGBD).
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
+   The parameters of our CMWNet are 85.61M.
 
 # Testing
 1. `test_RGBD.prototxt/` is under `models/`.
