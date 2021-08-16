@@ -18,6 +18,8 @@
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
    
    The number of parameters of our CMWNet is 85.61M.
+   
+   The FLOPs of our CMWNet is 322.34G.
 
 # Testing
 1. `test_RGBD.prototxt/` is under `models/`.
